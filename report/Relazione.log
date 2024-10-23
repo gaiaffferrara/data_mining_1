@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.14)  23 OCT 2024 16:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.14)  23 OCT 2024 17:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/brunobarbieri/Documents/Uni/magistrale/first/data_mining_1/Relazione.tex
-(/Users/brunobarbieri/Documents/Uni/magistrale/first/data_mining_1/Relazione.tex
+**/Users/brunobarbieri/Documents/Uni/magistrale/first/data_mining_1/report/Relazione.tex
+(/Users/brunobarbieri/Documents/Uni/magistrale/first/data_mining_1/report/Relazione.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
@@ -320,14 +320,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \c@lstlisting=\count294
-<immagini/cherubino_pant541.png, id=1, 287.6346pt x 293.1753pt>
-File: immagini/cherubino_pant541.png Graphic file (type png)
-<use immagini/cherubino_pant541.png>
-Package pdftex.def Info: immagini/cherubino_pant541.png  used on input line 122.
-(pdftex.def)             Requested size: 143.81694pt x 146.58728pt.
  [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./immagini/cherubino_pant541.png>] (./Relazione.toc
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./Relazione.toc
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 6.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -371,7 +366,7 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=21.74998pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 161.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 165.
 
 
 Overfull \vbox (9.74998pt too high) has occurred while \output is active []
@@ -387,7 +382,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
-<immagini/logo-dip_blu_hr.png, id=20, 1848.9075pt x 1939.245pt>
+<immagini/logo-dip_blu_hr.png, id=17, 1848.9075pt x 1939.245pt>
 File: immagini/logo-dip_blu_hr.png Graphic file (type png)
 <use immagini/logo-dip_blu_hr.png>
 Package pdftex.def Info: immagini/logo-dip_blu_hr.png  used on input line 12.
@@ -409,18 +404,18 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8693 strings out of 474116
- 163845 string characters out of 5743682
+ 8685 strings out of 474116
+ 163554 string characters out of 5743682
  1968187 words of memory out of 5000000
- 30947 multiletter control sequences out of 15000+600000
- 592631 words of font info for 97 fonts, out of 8000000 for 9000
+ 30938 multiletter control sequences out of 15000+600000
+ 593709 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,21n,121p,389b,1253s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,21n,121p,396b,1253s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Relazione.pdf (7 pages, 337116 bytes).
+Output written on Relazione.pdf (7 pages, 243562 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

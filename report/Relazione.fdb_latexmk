@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex Relazione"] 1729693819.92714 "Relazione.aux" "Relazione.bbl" "Relazione" 1729693823.03419 0
+["bibtex Relazione"] 1729695107.59857 "Relazione.aux" "Relazione.bbl" "Relazione" 1729695821.06306 0
   "./bibliography.bib" 1719064876.34473 299 9a56073761a17467ba115822b2685c02 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Relazione.aux" 1729693822.48311 1398 9d57a37eca637c6343824044625d1361 "pdflatex"
+  "Relazione.aux" 1729695820.52146 1398 9d57a37eca637c6343824044625d1361 "pdflatex"
   (generated)
   "Relazione.bbl"
   "Relazione.blg"
   (rewritten before read)
-["pdflatex"] 1729693820.17997 "/Users/brunobarbieri/Documents/Uni/magistrale/first/data_mining_1/Relazione.tex" "Relazione.pdf" "Relazione" 1729693823.03448 0
-  "/Users/brunobarbieri/Documents/Uni/magistrale/first/data_mining_1/Relazione.tex" 1719055464.55665 6365 f8724117127935a8785253bea9977a04 ""
+["pdflatex"] 1729695818.78907 "/Users/brunobarbieri/Documents/Uni/magistrale/first/data_mining_1/report/Relazione.tex" "Relazione.pdf" "Relazione" 1729695821.06333 0
+  "/Users/brunobarbieri/Documents/Uni/magistrale/first/data_mining_1/report/Relazione.tex" 1729695818.47218 6477 69f787c4f4811fa4051b470798fd390c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -83,14 +83,13 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1718359646.02718 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1718359419 8221430 7882b9a7879b697c1714b9ec0b6e673c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Relazione.aux" 1729693822.48311 1398 9d57a37eca637c6343824044625d1361 "pdflatex"
-  "Relazione.bbl" 1729693820.17477 212 608f961571af4d8590d16b1b2692aa64 "bibtex Relazione"
-  "Relazione.lof" 1729693822.48467 166 81ced9bcad7921129e0a68d6409ef631 "pdflatex"
-  "Relazione.tex" 1719055464.55665 6365 f8724117127935a8785253bea9977a04 ""
-  "Relazione.toc" 1729693822.48456 353 72ae156f05db40ab96ded3a3367ccf2e "pdflatex"
+  "Relazione.aux" 1729695820.52146 1398 9d57a37eca637c6343824044625d1361 "pdflatex"
+  "Relazione.bbl" 1729695107.85132 212 608f961571af4d8590d16b1b2692aa64 "bibtex Relazione"
+  "Relazione.lof" 1729695820.5229 166 81ced9bcad7921129e0a68d6409ef631 "pdflatex"
+  "Relazione.tex" 1729695818.47218 6477 69f787c4f4811fa4051b470798fd390c ""
+  "Relazione.toc" 1729695820.52281 353 72ae156f05db40ab96ded3a3367ccf2e "pdflatex"
   "capitolo1.tex" 1719055452.23263 766 f4b9ee7163ccb13d920bacadad2630e1 ""
   "conclusioni.tex" 1648464938 61 d570db7e751cfa58ce9df26a510cad93 ""
-  "immagini/cherubino_pant541.png" 1494509810 164399 35acb288a44c404ffd063bc22487e4be ""
   "immagini/logo-dip_blu_hr.png" 1235839594 270428 9f7c263a4c8cc906f564bdcc3b5e84fd ""
   "introduzione.tex" 1648464938 64 119ecef1188a301f2c9236d250be91a9 ""
   (generated)
