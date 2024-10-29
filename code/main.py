@@ -29,7 +29,12 @@ import matplotlib.pyplot as plt
 plt.figure(figsize = (10, 6))
 
 
-grouped_ratings = complete_df.groupby('Ratings').count()
+grouped_ratings = complete_df.groupby('rating').count()
 grouped_ratings['originalTitle'].plot(kind= 'bar')
 
-plt.show()      # do not run!!!
+# to save: plt.savefig('plots/<plot_name>.png')
+plt.savefig('plots/rating_count.png')
+
+
+# avg awardWins per rating
+avg_awardWins = complete_df.groupby('rating')['awardWins'].mean().reset_index()
